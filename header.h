@@ -16,3 +16,6 @@
 #include "prompt.h"
 #include "sys_call.h"
 #include "pastevents.h"
+#include "iman.h"
+#include "neonate.h"
+#include "activities.h"
