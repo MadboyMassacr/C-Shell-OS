@@ -13,7 +13,7 @@ This project is a basic implementation of a shell in the C programming language.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/c-shell.git
+   git clone https://github.com/MadboyMassacr/C-Shell-OS.git
    cd c-shell
 
 2. Starting the shell
